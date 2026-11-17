@@ -1,1 +1,0 @@
-# AZM backend API package
